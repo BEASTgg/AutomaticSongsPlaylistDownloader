@@ -44,7 +44,7 @@ def download_song(track_name, artist_name, output_path="downloads"):
         print(f"Error downloading '{track_name}' by {artist_name}: {e}")
 
 def main():
-    input_file = "My Spotify Library.csv"
+    input_file = "songs.csv"
     songs_df = pd.read_csv(input_file)
     
     if "Track name" not in songs_df.columns or "Artist name" not in songs_df.columns:
