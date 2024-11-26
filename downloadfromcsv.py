@@ -1,7 +1,6 @@
 import os
 import yt_dlp
 import pandas as pd
-from pytube import YouTube
 from youtubesearchpython import VideosSearch
 
 
