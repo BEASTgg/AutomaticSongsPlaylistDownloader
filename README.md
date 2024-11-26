@@ -6,6 +6,14 @@ Requirements -
 pip install pytube youtube-search-python pandas yt-dlp
 ~~~
 
+Also install (ffmpeg) - [Click here](https://github.com/BtbN/FFmpeg-Builds/releases)
+
+~~~
+Extract it in C:\ffpmeg\
+
+keep both the files there bin and doc
+~~~
+
 Now to run this -
 
 ~~~
