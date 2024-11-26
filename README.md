@@ -5,3 +5,9 @@ Requirements -
 ~~~
 pip install pytube youtube-search-python pandas yt-dlp
 ~~~
+
+Now to run this -
+
+~~~
+Python downloadfromcsv.py
+~~~
